@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+.Item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5px 0 0 5px;
+    height: 15px;
+    border: 0.5px solid white;
+    border-radius: 2px;
+    background-color: #ddd4eb;
+    font-size: 5px;
+    margin-right: 5px;
+    padding: 1px 2px 1px 1px;
+    color: black;
+    font-family: 'Roboto Slab', serif;;
+}
+.Item p{
+    margin: 0;
+    font-size: 5px;
+    margin-left: 3px;
+}
+.Item button{
+    font-size: 5px;
+    border-radius: 50%;
+    border: 0;
+    margin: 0;
+    width: 12px;
+    height: 12px;
+    justify-content: center;
+}
